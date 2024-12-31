@@ -1,0 +1,23 @@
+.tecnologia {
+    background-color: var(--color-tecnologia);
+    color: var(--color-texto-tecnologia);
+    padding: 10px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.tecnologia:hover {
+    background-color: var(--color-tecnologia-hover);
+}
+
+.tecnologia i {
+    font-size: 24px;
+    margin-right: 8px;
+}

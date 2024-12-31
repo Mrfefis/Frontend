@@ -1,0 +1,20 @@
+:root {
+    --color-header: #222;
+    --color-nav: #333;
+    --color-footer: #333;
+    --color-proyecto: white;
+    --color-tecnologia: #FFA500;
+    --color-tecnologia-hover: #FF6347;
+
+    --color-texto-header: white;
+    --color-texto-nav: white;
+    --color-texto-proyecto: #333;
+    --color-texto-tecnologia: #fff;
+    --color-texto-footer: #FFA500;
+    
+    --color-inicial-body: #fa0;
+    --color-final-body: #f66;
+
+    --color-titulo-proyecto: #FF6347;
+    --color-titulo-footer: white;
+}
